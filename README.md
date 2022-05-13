@@ -20,6 +20,7 @@ Uma Lista de repositórios, utilizando a api pública do github.
 - TypeScript
 - Webpack
 - Babel
+- SCSS
 - VS Code
 
 ## 🚀 Clonando e Rodando o Projeto
