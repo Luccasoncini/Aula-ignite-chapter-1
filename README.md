@@ -25,17 +25,17 @@ Uma Lista de repositórios, utilizando a api pública do github.
 
 ## 🚀 Clonando e Rodando o Projeto
 
-para clonar o projeto basta criar uma nova pasta e colocar o comando:
+para clonar o projeto basta criar uma nova pasta e colocar o comando no terminal:
 
 Git clone https://github.com/Luccasoncini/Aula-ignite-chapter-1
 
 Assim que o projeto já estiver clonado, vc vai precisar instalar as dependências do projeto com o comando:
 
-Yarn
+Yarn install
 
 ou 
 
-Npm i
+Npm install
 
 Quando as dependências já estiverem instaladas adequadamente use o comando:
 
