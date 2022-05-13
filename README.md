@@ -5,27 +5,42 @@
 <p align="center"> Lista de repositórios</p>
 
 <p align="center">
-	<a href="https://nextlevelweek.com/episodios/impulse/abertura/edicao/8">
-		<img alt="License" src="https://raw.githubusercontent.com/IgorThierry/nlw-return-impulse/main/.github/Capa.png">
-	</a>
+		<img alt="License" src="https://github.com/Luccasoncini/Aula-ignite-chapter-1/blob/main/src/projetoListaDeRepositorios.jpg">
 </p>
 
 ## 🚀 Projeto
 
-Um Component Widget para feedback que pode ser utilizado em qualquer site.
+Uma Lista de repositórios, utilizando a api pública do github.
 
-Site em produção:
-
-https://nlw-return-impulse-luccasoncini-opzwxn85d-luccasoncini.vercel.app/
 
 ## 🔧 Tecnologias
 
-- Vite
-- TailWindCSS
 - ReactJS
 - NodeJS
-- ESLint + Prettier + EditorConfig;
+- TypeScript
+- Webpack
+- Babel
 - VS Code
+
+## 🚀 Clonando e Rodando o Projeto
+
+para clonar o projeto basta criar uma nova pasta e colocar o comando:
+
+Git clone https://github.com/Luccasoncini/Aula-ignite-chapter-1
+
+Assim que o projeto já estiver clonado, vc vai precisar instalar as dependências do projeto com o comando:
+
+Yarn
+
+ou 
+
+Npm i
+
+Quando as dependências já estiverem instaladas adequadamente use o comando:
+
+Yarn dev
+
+O projeto irá abrir no http://localhost:3000/
 
 ---
 
